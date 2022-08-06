@@ -1,4 +1,4 @@
-## hi, I'm BONiii 👋
+## Hello, I'm BONiii 👋
 - 📫 Email me at: [18458856673@163.com](mailto:18458856673@163.com)
 
 ## ⚡ Technologies
